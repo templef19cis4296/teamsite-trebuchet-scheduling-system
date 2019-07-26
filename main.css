@@ -1,23 +1,15 @@
-body {
+  body {
   padding: 0;
   margin: 0;
-  background: #f2f6e9;
+  background: #e9ecef;
 }
-/*--- navigation bar ---*/
-.navbar {
-  background:#6ab446;
+
+.jumbotron {
+  padding: 100px 25px;
 }
-.nav-link,
-.navbar-brand {
-  color: #fff;
-  cursor: pointer;
-}
-.nav-link {
-  margin-right: 1em !important;
-}
-.nav-link:hover {
-  color: #000;
-}
-.navbar-collapse {
-  justify-content: flex-end;
+
+.starter-template{
+  	padding: 75px;
+	background: white;
+
 }
