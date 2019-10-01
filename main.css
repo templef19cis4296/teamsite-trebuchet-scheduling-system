@@ -4,6 +4,11 @@ body {
   background: #blue;
 }
 
+.card-image-top{
+	height: 600px;
+	width: 200x;
+}
+
 .jumbotron {
     padding: 40px 25px;
     background: #FFBE67;
