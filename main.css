@@ -5,11 +5,16 @@ body {
 }
 
 .jumbotron {
-  padding: 100px 25px;
+    padding: 40px 25px;
+    background: #FFBE67;
 }
 
-.starter-template{
-  	padding: 75px;
-	background: white;
+.starter-template {
+    padding: 70px;
+    background: #67AEFF;
+    text-align: center;
+}
 
+.titleHeader {
+    font-style: italic;
 }
